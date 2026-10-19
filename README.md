@@ -45,7 +45,3 @@ Add new resources below using this format: `- [Title](URL): short description (t
 
 - [CLIMB project page](https://colinglab.fileli.unipi.it/erc-climb/): official project website (web, 2026)
 - [CoLing Lab resources](https://colinglab.fileli.unipi.it/resources/): datasets and tools from the lab (web)
-- [Title](URL): short description (paper, year)
-- [Title](URL): short description (dataset, year)
-- [Title](URL): short description (model, year)
-- [Title](URL): short description (code, year)
