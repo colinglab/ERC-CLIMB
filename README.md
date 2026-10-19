@@ -12,7 +12,7 @@ Host: [CoLing Lab](https://colinglab.fileli.unipi.it/), University of Pisa
 
 CLIMB draws on findings from linguistics, cognitive science, and developmental psychology to develop language models that are more cognitively grounded. The goal is to use these models to investigate the mechanisms underlying human language acquisition and processing.
 
-![Visual abstract](path/to/visual-abstract.png)
+![Visual abstract](Visual-Abstract-CLIMB.jpg)
 
 ## Project Website
 
@@ -30,7 +30,7 @@ See the [CoLing Lab people page](https://colinglab.fileli.unipi.it/people/).
 
 Funded by the European Research Council (ERC) under the European Union's Horizon Europe research and innovation programme (ERC Advanced Grant, Grant Agreement No. 101266749).
 
-![ERC and EU logos](path/to/erc-eu-logo.png)
+![ERC and EU logos](LOGO_ERC-FLAG_EU.png)
 
 Views and opinions expressed are those of the authors only and do not necessarily reflect those of the European Union or the ERC.
 
