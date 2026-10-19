@@ -1,1 +1,51 @@
-# ERC-CLIMB
+# CLIMB
+
+**Cognitively-Inspired Language Models for Investigating Human Language Acquisition and Processing**
+
+ERC Advanced Grant 2025 (ERC-AdG-2025, Grant No. 101266749)
+Principal Investigator: [Alessandro Lenci](https://www.unipi.it/ateneo/organizzazione/persone/alessandro-lenci-5507/)
+Host: [CoLing Lab](https://colinglab.fileli.unipi.it/), University of Pisa
+
+![CLIMB logo](path/to/logo.png)
+
+## Overview
+
+CLIMB draws on findings from linguistics, cognitive science, and developmental psychology to develop language models that are more cognitively grounded. The goal is to use these models to investigate the mechanisms underlying human language acquisition and processing.
+
+![Visual abstract](path/to/visual-abstract.png)
+
+## Project Website
+
+https://colinglab.fileli.unipi.it/erc-climb/
+
+## Publications
+
+*To be added.*
+
+## Team
+
+See the [CoLing Lab people page](https://colinglab.fileli.unipi.it/people/).
+
+## Funding
+
+Funded by the European Research Council (ERC) under the European Union's Horizon Europe research and innovation programme (ERC Advanced Grant, Grant Agreement No. 101266749).
+
+![ERC and EU logos](path/to/erc-eu-logo.png)
+
+Views and opinions expressed are those of the authors only and do not necessarily reflect those of the European Union or the ERC.
+
+## Contact
+
+CoLing Lab, Department of Philology, Literature and Linguistics, University of Pisa
+https://colinglab.fileli.unipi.it/contacts/
+
+## Resources
+
+Add new resources below using this format: `- [Title](URL): short description (type, year)`
+
+- [CLIMB project page](https://colinglab.fileli.unipi.it/erc-climb/): official project website (web, 2026)
+- [CoLing Lab resources](https://colinglab.fileli.unipi.it/resources/): datasets and tools from the lab (web)
+- [Title](URL): short description (paper, year)
+- [Title](URL): short description (dataset, year)
+- [Title](URL): short description (model, year)
+- [Title](URL): short description (code, year)
