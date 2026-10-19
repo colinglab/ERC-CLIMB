@@ -1,3 +1,5 @@
+![CLIMB logo](CLIMB-logo.jpg)
+
 # CLIMB
 
 **Cognitively-Inspired Language Models for Investigating Human Language Acquisition and Processing**
@@ -5,8 +7,6 @@
 ERC Advanced Grant 2025 (ERC-AdG-2025, Grant No. 101266749)
 Principal Investigator: [Alessandro Lenci](https://www.unipi.it/ateneo/organizzazione/persone/alessandro-lenci-5507/)
 Host: [CoLing Lab](https://colinglab.fileli.unipi.it/), University of Pisa
-
-![CLIMB logo](path/to/logo.png)
 
 ## Overview
 
