@@ -22,17 +22,6 @@ https://colinglab.fileli.unipi.it/erc-climb/
 
 *To be added.*
 
-## Team
-
-See the [CoLing Lab people page](https://colinglab.fileli.unipi.it/people/).
-
-## Funding
-
-Funded by the European Research Council (ERC) under the European Union's Horizon Europe research and innovation programme (ERC Advanced Grant, Grant Agreement No. 101266749).
-
-![ERC and EU logos](LOGO_ERC-FLAG_EU.png)
-
-Views and opinions expressed are those of the authors only and do not necessarily reflect those of the European Union or the ERC.
 
 ## Contact
 
@@ -45,3 +34,15 @@ https://colinglab.fileli.unipi.it/contacts/
 - [CLEVER - Computational and Linguistic bEnchmarks for the study of VErb argument structuRe](https://github.com/Unipisa/CLEVER): project page on GitHub
 - [BAMBI dataset](https://huggingface.co/datasets/colinglab/BAMBI_dataset): HuggingFace Dataset
 - [CoLing Lab resources](https://colinglab.fileli.unipi.it/resources/): datasets and tools from the lab
+
+## Team
+
+See the [CoLing Lab people page](https://colinglab.fileli.unipi.it/people/).
+
+## Funding
+
+Funded by the European Research Council (ERC) under the European Union's Horizon Europe research and innovation programme (ERC Advanced Grant, Grant Agreement No. 101266749).
+
+<img src="LOGO_ERC-FLAG_EU.png" alt="drawing" width="200"/>
+
+Views and opinions expressed are those of the authors only and do not necessarily reflect those of the European Union or the ERC
