@@ -41,7 +41,7 @@ https://colinglab.fileli.unipi.it/contacts/
 
 ## Resources
 
-Add new resources below using this format: `- [Title](URL): short description (type, year)`
-
-- [CLIMB project page](https://colinglab.fileli.unipi.it/erc-climb/): official project website (web, 2026)
-- [CoLing Lab resources](https://colinglab.fileli.unipi.it/resources/): datasets and tools from the lab (web)
+- [CLIMB project page](https://colinglab.fileli.unipi.it/erc-climb/): official project website
+- [CLEVER - Computational and Linguistic bEnchmarks for the study of VErb argument structuRe](https://github.com/Unipisa/CLEVER): project page on GitHub
+- [BAMBI dataset](https://huggingface.co/datasets/colinglab/BAMBI_dataset): HuggingFace Dataset
+- [CoLing Lab resources](https://colinglab.fileli.unipi.it/resources/): datasets and tools from the lab
